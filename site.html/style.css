@@ -1,0 +1,22 @@
+img{
+    width: 580px;
+    border-radius: 16px;
+}
+
+a {
+    text-decoration: none;
+    padding-right: 12px;
+}
+
+p {
+    color: black;
+}
+body {
+    background-color: papayawhip;
+    font-family: "Lato", sans-serif;
+    color: darkcyan;
+}
+
+header {
+    background-color: darkseagreen;
+}
